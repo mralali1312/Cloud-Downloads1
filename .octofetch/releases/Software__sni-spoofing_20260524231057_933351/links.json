@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9341",
+  "folder": "Software__sni-spoofing_20260524231057_933351",
+  "base_name": "sni-spoofing.exe",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/mralali1312/Cloud-Downloads1/releases/tag/co-releases-v1-9341",
+  "files": [
+    {
+      "name": "sni-spoofing.exe",
+      "url": "https://github.com/mralali1312/Cloud-Downloads1/releases/download/co-releases-v1-9341/sni-spoofing.exe",
+      "api_url": "https://api.github.com/repos/mralali1312/Cloud-Downloads1/releases/assets/429636956",
+      "id": 429636956,
+      "size": 8395264,
+      "download_count": 0
+    }
+  ]
+}
